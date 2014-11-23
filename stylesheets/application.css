@@ -8,15 +8,15 @@
  */
 body { color: #333333; background-color: white; }
 
-body, input, select, textarea, button { font: 12px Helvetica, arial, freesans, clean, sans-serif; line-height: 1.4; }
+body, input, select, textarea, button { font: 14px Helvetica, arial, freesans, clean, sans-serif; line-height: 1.4; }
 
-tt, code, pre { font-family: Consolas, "Liberation Mono", Courier, monospace; font-size: 12px; }
+tt, code, pre { font-family: Consolas, "Liberation Mono", Courier, monospace; font-size: 14px; }
 
 #content h1, h2, h3, h4 { color: #333333; }
 
 #header { background: white; padding: 4px 8px 10px 6px; height: auto; }
 #header a { color: #4183c4; }
-#header > h1 { background: url(../images/logo.png) no-repeat 10px 5px; padding: 5px 45px; color: #393939; }
+#header > h1 { background: url(../../../images/wakefly-bracket-43.png) no-repeat 10px 5px; padding: 5px 65px; color: #393939; }
 
 #main { background: transparent; margin: 15px 15px 0px 15px; background-color: white; }
 
@@ -307,3 +307,8 @@ a.buy-button.blue { background: #4C728A !important; background-image: -webkit-gr
 #picture { width: 446px !important; top: 7px; }
 
 #title h2, #buttons, #title h1 { min-width: 550px !important; }
+
+/* timerlog_timer styling */
+.timerlog-timer-text { color: orange; }
+body .timerlog-timer-title { color: orange; }
+
