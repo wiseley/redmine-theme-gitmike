@@ -14,8 +14,8 @@
   "homepage": "https://github.com/makotokw/redmine-theme-gitmike",
   "devDependencies": {
     "grunt": "~0.4.4",
-    "load-grunt-tasks": "~0.4.0",
-    "grunt-contrib-compass": "~0.7.2",
-    "grunt-contrib-watch": "~0.6.1"
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "load-grunt-tasks": "~0.4.0"
   }
 }
