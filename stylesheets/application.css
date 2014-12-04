@@ -295,6 +295,9 @@ span.invoice-status.draft { background-color: #AAA !important; }
 span.invoice-status.sent { background-color: #3F8AF7 !important; }
 span.invoice-status.paid { background-color: green !important; }
 
+/* header display for running timer */
+.timerlog-timer-label { color: #4183C4; font-weight: bold; margin-left: 2em !important; }
+
 .enabled_scm th { text-align: left; }
 
 .jstt_smiles #group_of_smiles { border: 1px solid #ddd !important; margin-top: -6px; padding: 6px; }
