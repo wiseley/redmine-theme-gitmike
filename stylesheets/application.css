@@ -296,7 +296,7 @@ span.invoice-status.sent { background-color: #3F8AF7 !important; }
 span.invoice-status.paid { background-color: green !important; }
 
 /* header display for running timer */
-.timerlog-timer-label { color: #4183C4; font-weight: bold; margin-left: 2em !important; }
+.timerlog-timer-label { color: orange; font-weight: bold; margin-left: 2em !important; }
 
 .enabled_scm th { text-align: left; }
 
